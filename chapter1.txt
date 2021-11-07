@@ -1,3 +1,5 @@
 jest tu jakis wszechswiat
 cos tu chcial dopisac
 asdasd
+
+dodam tu tylko dla  cheku
